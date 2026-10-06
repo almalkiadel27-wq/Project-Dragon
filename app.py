@@ -37,5 +37,3 @@ if st.button("🚀 نفّذ المهمة"):
             except Exception as e:
                 st.error(f"خطأ: {e}")
 
-
-            Add app.py - Project Dragon 🐉
