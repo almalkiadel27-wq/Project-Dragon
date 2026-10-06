@@ -29,7 +29,7 @@ if st.button("🚀 نفّذ المهمة"):
                 }
                 
                 payload = {
-                    "model": "qwen-2.5-coder-32b",
+                    "model": "llama-3.3-70b-versatile",
                     "messages": [
                         {"role": "system", "content": "أنت مبرمج خبير."},
                         {"role": "user", "content": task}
